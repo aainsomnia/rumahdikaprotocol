@@ -6,15 +6,15 @@
 }
 @font-face {
     font-family:Alterra Display;
-    src: url(./AlterraDisplay-Regular.ttf);
+    src: url(/font/AlterraDisplay-Regular.ttf);
   }
   @font-face {
     font-family:Unsubscribe;
-    src: url(./Neontube-Bold.ttf);
+    src: url(/font/Neontube-Bold.ttf);
   }
   @font-face {
     font-family:PP NeueBit;
-    src: url(./PPNeueBit-Regular.ttf);
+    src: url(/font/PPNeueBit-Regular.ttf);
   }
 
 html,body{

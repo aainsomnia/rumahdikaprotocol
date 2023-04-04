@@ -327,13 +327,24 @@ html,body{
     font-size: 2.2vw;
     margin-top: 1vw;
 }
-.lcntr h1 span{
+.lcntr h1 span {
     font-family: "Alterra Display";
     padding: .3vw;
     padding-bottom: .3vw;
     font-weight: 100;
     color: #000000;
     background-color: #EBE4CB;
+}
+.astyle {
+    font-family: "Alterra Display";
+    padding: .3vw;
+    padding-bottom: .3vw;
+    font-weight: 100;
+    color: #000000;
+    background-color: #EBE4CB; 
+    font-weight: 100;
+    font-size: 1.3vw;
+    line-height: 3vw;
 }
 .cntr .lcntr .lcntrbtm{
     width: 100%;
@@ -461,6 +472,27 @@ width: 35%;
     width: 15vw;
     height: 7vw;
     border-right:2px solid #EBE4CB ;
+}
+
+.vox3{
+    width: 35vw;
+    height: 7vw;
+    text-align: center;
+}
+.social2{
+    margin: 3vw 0;
+    width: 95vw;
+    height: 7vw;
+    display: flex;
+    background-color: #000000;
+    border-radius: 1.8vw;
+    border: 2px solid #EBE4CB;
+    overflow: hidden;
+    font-family: "Alterra Display";
+    color: #EBE4CB;
+    font-size: 1.7vw;
+    text-align: center;
+    position: static;
 }
 @media(max-width:500px){
     .scnd{
